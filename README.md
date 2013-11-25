@@ -3,4 +3,4 @@ GradientProgressView
 
 Animated hue progress bar using CAGradientLayer for iOS.
 
-![Screenshot](https://github.com/nrj/GradientProgressView/blob/master/Screenshot.gif)
+![Screenshot](https://raw.github.com/nrj/GradientProgressView/master/Screenshot.gif)
